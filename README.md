@@ -9,6 +9,7 @@ Este projeto foi desenvolvido para aprofundar conhecimentos em processamento dig
 | Antes (Imagem Original) | Depois (Resultado em ASCII) |
 | :---: | :---: |
 | <img src="images/pawn.png" width="300" alt="Imagem original antes da conversão"> | <img src="images/pawn_ASCII.png" width="300" alt="Imagem convertida para ASCII"> |
+| <img src="images/chess.png" width="300" alt="Imagem original antes da conversão"> | <img src="images/chess_ASCII.png" width="300" alt="Imagem convertida para ASCII"> |
 
 ## Competências técnicas
 
