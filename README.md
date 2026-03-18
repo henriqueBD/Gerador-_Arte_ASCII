@@ -8,8 +8,8 @@ Este projeto foi desenvolvido para aprofundar conhecimentos em processamento dig
 
 | Antes (Imagem Original) | Depois (Resultado em ASCII) |
 | :---: | :---: |
-| \<img src="images/chess.png" width="300" alt="Imagem original antes da conversão"\> | \<img src="images/chess_ASCII.png" width="300" alt="Imagem convertida para ASCII"\> |
-| *Coloque o link da sua imagem de exemplo acima* | *Coloque o link do resultado acima* |
+| <img src="images/chess.png" width="300" alt="Imagem original antes da conversão"> | <img src="chess_ASCII.png" width="300" alt="Imagem convertida para ASCII"> |
+| *Imagem original* | *Resultado gerado pelo programa* |
 
 ## Competências técnicas
 
