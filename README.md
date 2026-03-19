@@ -8,8 +8,8 @@ This project was developed to deepen knowledge in digital image processing, file
 
 | Before (Original Image) | After (ASCII Result) |
 | :---: | :---: |
-| \<img src="images/pawn.png" width="300" alt="Original image before conversion"\> | \<img src="images/pawn\_ASCII.png" width="300" alt="Image converted to ASCII"\> |
-| \<img src="images/chess.png" width="300" alt="Original image before conversion"\> | \<img src="images/chess\_ASCII.png" width="300" alt="Image converted to ASCII"\> |
+| <img src="images/pawn.png" width="300" alt="Original image before conversion"> | <img src="images/pawn_ASCII.png" width="300" alt="Image converted to ASCII"> |
+| <img src="images/chess.png" width="300" alt="Original image before conversion"> | <img src="images/chess_ASCII.png" width="300" alt="Image converted to ASCII"> |
 
 ## Technical Skills
 
